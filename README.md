@@ -86,9 +86,6 @@ However, the model already demonstrated strong performance with engineered featu
 
 ##  Connect With Me
 
-If you found this interesting or have suggestions, feel free to reach out!  
-
- 
-[LinkedIn](www.linkedin.com/in/rishikajonna)
+If you found this interesting or have suggestions, feel free to reach out!  => www.linkedin.com/in/rishikajonna
 
 
