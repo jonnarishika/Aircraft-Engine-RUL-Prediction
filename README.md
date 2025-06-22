@@ -1,10 +1,9 @@
 # Aircraft-Engine-RUL-Prediction
 This project focuses on predicting the **Remaining Useful Life (RUL)** of aircraft engines using time-series sensor data. The goal is to anticipate how many operational cycles an engine has left before failure — a critical task in predictive maintenance.
 
->  Final Model Performance (Test Set):  
-> - **RMSE:** [Your Final RMSE]  
-> - **MAE:** [Your Final MAE]  
-> - **R²:** [Your Final R²]
+> • Root Mean Squared Error (RMSE): 18.74
+> • Mean Absolute Error (MAE): 13.88
+> • R-squared (R²): 0.797
 
 ---
 
